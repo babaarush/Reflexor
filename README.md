@@ -1,6 +1,6 @@
-# Arduino Reaction Time Game 🎮
+# Reflexor ⚡
 
-## About the Project ⚡
+## About the Project 🎮
 
 This project is an Arduino-based reaction time game that tests how quickly a player can respond to a randomly selected LED.
 
