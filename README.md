@@ -93,8 +93,3 @@ Some features I may add in the future:
 - C/C++ (Arduino)
 - LiquidCrystal library
 
-## Project Status 📌
-
-**In Progress**
-
-This project will continue to be improved as I learn more about Arduino programming and electronics.
