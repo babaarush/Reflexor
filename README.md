@@ -74,18 +74,6 @@ This project helped me practice several Arduino programming concepts, including:
 - LCD display programming
 - Variables and data types
 
-## Future Improvements 🚀
-
-Some features I may add in the future:
-
-- Detecting incorrect button presses
-- Keeping track of the player's score
-- Adding a high-score system
-- Tracking the average reaction time
-- Adding multiple difficulty levels
-- Adding a countdown before each round
-- Adding a game-over or win screen
-
 ## Built With 🛠️
 
 - Arduino IDE
